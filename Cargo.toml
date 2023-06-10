@@ -1,0 +1,10 @@
+[package]
+name = "hello-polodb"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+polodb_core = "4.4.0"
+serde = "1.0.164"
